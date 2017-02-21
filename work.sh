@@ -1,0 +1,2 @@
+hugo server -t Paperback
+
